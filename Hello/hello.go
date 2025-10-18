@@ -4,7 +4,7 @@ Simple Greeter
 
 */
 
-package main
+package hello
 
 import (
 	"fmt"
